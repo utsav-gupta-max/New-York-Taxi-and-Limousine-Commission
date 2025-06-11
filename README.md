@@ -7,8 +7,8 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
 
 
-**The following tasks are needed before the team can begin the data analysis process:
-**
+**The following tasks are needed before the team can begin the data analysis process:**
+
 1.Build a dataframe for the TLC dataset
 
 2.Examine data type of each column
