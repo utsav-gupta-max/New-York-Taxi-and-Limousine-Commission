@@ -16,3 +16,10 @@ Note: This project's dataset was created for pedagogical purposes and may not be
 2.Examine data type of each column
 
 3.Gather descriptive statistics
+
+
+**Step 2: Exploratory Data Analysis (EDA)**
+
+**The purpose** of this project is to conduct exploratory data analysis on a provided data set. Your mission is to continue the investigation you began in C2 and perform further EDA on this data with the aim of learning more about the variables. 
+  
+**The goal** is to clean data set and create a visualization.
