@@ -32,3 +32,10 @@ Note: This project's dataset was created for pedagogical purposes and may not be
 **Note:** For the purpose of this exercise, assume that the sample data comes from an experiment in which customers are randomly selected and divided into two groups: 1) customers who are required to pay with credit card, 2) customers who are required to pay with cash. Without this assumption, we cannot draw causal conclusions about how payment method affects fare amount.
 
 **The goal** is to apply descriptive statistics and hypothesis testing in Python. The goal for this A/B test is to sample data and analyze whether there is a relationship between payment type and fare amount. For example: discover if customers who use credit cards pay higher fare amounts than customers who use cash.
+
+
+**Step 4: Multiple Linear Regression Model**
+
+**The purpose** of this project is to demostrate knowledge of EDA and a multiple linear regression model
+
+**The goal** is to build a multiple linear regression model and evaluate the model
